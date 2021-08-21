@@ -1,0 +1,125 @@
+.header{
+background-color: rgb(18,20,69);
+overflow: hidden;
+}
+.heder-logo img{
+width: 80px;
+margin-top: 8px;
+}
+.praimary-menu{
+    text-align: right;
+}
+.praimary-menu ul{
+    margin-bottom: 0;}
+.praimary-menu ul li{
+    display: inline-block;
+    
+}
+.praimary-menu ul li a{
+    display: block;
+    color: #fff;
+    font-size: 15px;
+    padding: 20px 20px;
+    text-align: right;
+    text-decoration: none;
+    line-height: 40px;
+    transition: .5s;
+    margin: -2px;
+}
+.praimary-menu ul li a:hover{
+background-color: #232c4d;
+
+}
+.banner{
+    background-image: url(./image\(1\).jpg);
+    padding: 300px 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+}
+
+.banner-text h3{
+    background-color: #3458db;
+    display: inline-block;
+    font-size: 20px;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.About{
+    background-color: rgb(188,194,242);
+
+
+}
+.About h1{
+    font-size: 50px;
+    margin: 50px;
+}
+.About a{
+    color: #fff;
+    background-color: #3458db;
+    padding: 6px 15px;
+    font-size: 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.About{
+    padding-bottom: 60px;
+}
+.About p{
+    padding: 20px 0;
+}
+.About img{
+    width: 200px;
+}
+.bbbbb img{
+    width: 215px;
+}
+.About-saction h1{
+    text-align: center;
+    font-size: 50px;
+    padding: 100px 0;
+
+}
+
+.About{
+    position: relative;
+
+}
+.About-saction{
+    background-color: rgb(195,211,236);
+    padding-bottom:150px ;
+    
+}
+
+
+.About-saction{
+    
+    padding-bottom: 150px;
+
+}
+.contact-saction{
+    padding-bottom: 100px;
+}
+
+.contact-saction h1{
+    padding: 60px;
+    font-size: 60px;
+    text-align: center;
+}
+.footer{
+    background-color: rgb(3,99,212);
+    text-align: center;
+    color: #ddd;
+    
+}
+.footer h4{
+    font-size: 20px;
+    margin-top: -5px;
+    
+}
+.footer h3{
+    padding-top: 20px;
+    font-size: 20px;
+}
+
+
